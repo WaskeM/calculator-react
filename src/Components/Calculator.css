@@ -1,0 +1,19 @@
+.calculator {
+    display: flex;
+    width: 270px;
+    height: 450px;
+    border: 5px solid rgb(0, 0, 0);
+    border-radius: 0px;
+    flex-wrap: wrap;
+    padding: 20px;
+    justify-content: center;
+    background-color: rgb(34, 167, 7);
+    border-radius: 30px;
+}
+
+.cells {
+    width: 200px;
+    height: 50px;
+    border-radius: 5px;
+    opacity: 1;
+}
